@@ -4,3 +4,14 @@ body {
     margin: 0;
     font-family: "Roboto", sans-serif;
 }
+
+/* Header */
+
+#flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    z-index: 1;
+    height: 4rem;
+}
