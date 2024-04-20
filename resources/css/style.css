@@ -9,10 +9,14 @@ body {
 
 header {
     display: flex;
-    justify-content: center;
     align-items: center;
     width: 100%;
     z-index: 1;
     height: 4rem;
+}
+
+header #colmaricon {
+    height: 2rem;
+    justify-content: flex-start;
 }
 
