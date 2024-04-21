@@ -42,3 +42,8 @@ header nav {
     text-align: right;
     flex-grow: 1;
 }
+
+nav span {
+    display: inline-block;
+    margin-right: 1rem;
+}
