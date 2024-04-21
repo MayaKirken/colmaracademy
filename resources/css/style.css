@@ -23,9 +23,9 @@ header #colmaricon {
 
 header p, span {
     font-size: 1rem;
-    font-weight: bold;
 }
 
-header img {
-    height: 2rem;
+header p {
+    font-weight: bold;
+    color: dimgray;
 }
