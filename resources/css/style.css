@@ -29,3 +29,7 @@ header p {
     font-weight: bold;
     color: dimgray;
 }
+
+header span {
+    color: gray;
+}
