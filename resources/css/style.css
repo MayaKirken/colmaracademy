@@ -47,3 +47,7 @@ nav span {
     display: inline-block;
     margin-right: 1rem;
 }
+
+nav #margin-right {
+    margin-right: 1.5rem;
+}
