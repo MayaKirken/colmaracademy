@@ -60,4 +60,7 @@ span a {
 
 /* Sign Up Section */
 
-
+#sign-in {
+    background-color: lightgray;
+    padding: 2rem 1.5rem;
+}
