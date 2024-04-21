@@ -37,3 +37,8 @@ header span {
 header img {
     margin-left: 1.5rem;
 }
+
+header nav {
+    text-align: right;
+    flex-grow: 1;
+}
