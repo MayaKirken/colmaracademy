@@ -22,5 +22,10 @@ header #colmaricon {
 }
 
 header p, span {
-    font-size: 2rem;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+header img {
+    height: 2rem;
 }
