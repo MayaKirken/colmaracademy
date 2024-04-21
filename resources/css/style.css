@@ -104,6 +104,10 @@ span a {
     padding: 2rem 1.5rem;
 }
 
+.left {
+    width: 60%;
+}
+
 #about-campus img {
     width: 60%;
 }
