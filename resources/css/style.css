@@ -33,3 +33,7 @@ header p {
 header span {
     color: gray;
 }
+
+header img {
+    margin-left: 1.5rem;
+}
