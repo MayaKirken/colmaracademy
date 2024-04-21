@@ -68,3 +68,10 @@ span a {
 #sign-in img {
     width: 60%;
 }
+
+#sign-in hgroup {
+    position: absolute;
+    top: 40%;
+    left: 60%;
+    margin-left: 1.5rem;
+}
