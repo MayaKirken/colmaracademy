@@ -13,6 +13,7 @@ header {
     width: 100%;
     z-index: 1;
     height: 4rem;
+
 }
 
 header #colmaricon {
@@ -20,3 +21,6 @@ header #colmaricon {
     justify-content: flex-start;
 }
 
+header p, span {
+    font-size: 2rem;
+}
