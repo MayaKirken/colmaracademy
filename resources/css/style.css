@@ -103,3 +103,12 @@ span a {
 #about-campus {
     padding: 2rem 1.5rem;
 }
+
+#about-campus img {
+    width: 60%;
+}
+
+#about-campus h2 {
+    font-size: 2rem;
+    color: #36454F;
+}
