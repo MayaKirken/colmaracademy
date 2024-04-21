@@ -75,3 +75,8 @@ span a {
     left: 60%;
     margin-left: 1.5rem;
 }
+
+#sign-in h2 {
+    font-size: 3rem;
+    color: #36454F;
+}
