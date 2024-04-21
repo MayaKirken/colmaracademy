@@ -86,3 +86,14 @@ span a {
     font-size: 1.5rem;
     font-weight: 500;
 }
+
+#sign-in button {
+    border-radius: 0;
+    background-color: #36454F;
+    color: white;
+    border: 1px #36454F;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    width: 100%;
+    font-size: 1.2rem;
+}
