@@ -5,6 +5,7 @@ body {
     font-family: "Roboto", sans-serif;
 }
 
+
 .left {
     width: 60%;
 }
@@ -73,9 +74,7 @@ span a {
     padding: 2rem 1.5rem;
 }
 
-#sign-in img {
-    width: 60%;
-}
+
 
 #sign-in hgroup {
     position: absolute;
@@ -102,7 +101,7 @@ span a {
     border: 1px #36454F;
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
-    width: 100%;
+    width: 50%;
     font-size: 1.2rem;
 }
 
