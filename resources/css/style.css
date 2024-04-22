@@ -133,3 +133,15 @@ aside img {
     width: 35%;
     margin: 1rem 1rem;
 }
+
+aside #far-right-top {
+    position: absolute;
+    top: 8%;
+    left: 43%;
+}
+
+aside #far-right-middle {
+    position: absolute;
+    top: 35%;
+    left: 43%;
+}
