@@ -151,3 +151,7 @@ aside #far-right-bottom {
     top: 75%;
     left: 43%;
 }
+
+#background-color-gray {
+    background-color: lightgrey;
+}
