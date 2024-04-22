@@ -121,3 +121,7 @@ span a {
     font-weight: 400;
     color: #36454F;
 }
+
+#orientation {
+    display: flex;
+}
