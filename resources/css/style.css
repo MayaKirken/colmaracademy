@@ -142,7 +142,7 @@ aside #far-right-top {
 
 aside #far-right-middle {
     position: absolute;
-    top: 35%;
+    top: 40%;
     left: 43%;
 }
 
@@ -155,3 +155,9 @@ aside #far-right-bottom {
 #background-color-gray {
     background-color: lightgrey;
 }
+
+section h3 {
+    color: #36454F;
+    font-size: 1.5rem;
+}
+
