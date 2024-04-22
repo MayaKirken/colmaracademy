@@ -75,12 +75,10 @@ span a {
 }
 
 
-
 #sign-in hgroup {
     position: absolute;
     top: 30%;
-    left: 60%;
-    margin-left: 1.5rem;
+    left: 65%;
 }
 
 #sign-in h2 {
