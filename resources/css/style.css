@@ -127,3 +127,9 @@ aside {
     top: 112%;
     left: 65%;
 }
+
+aside img {
+    height: auto;
+    width: 35%;
+    margin: 1rem 1rem;
+}
