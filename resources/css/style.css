@@ -164,3 +164,8 @@ section h3 {
 #far-right-top p, #far-right-middle p, #far-right-bottom p {
     color: #36454F;
 }
+
+#far-right-top a, #far-right-middle a, #far-right-bottom a {
+    text-decoration: none;
+}
+
