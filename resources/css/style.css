@@ -177,3 +177,6 @@ section h3 {
 
 /* Start Learning Section */
 
+#wrapper {
+    margin: 2rem 4.5rem;
+}
