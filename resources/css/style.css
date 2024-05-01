@@ -184,3 +184,10 @@ section h3 {
 #start-learning {
     background-color: lightgrey;
 }
+
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+}
