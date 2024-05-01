@@ -198,3 +198,7 @@ section h3 {
     flex-basis: 100%;
     flex: 1;
 }
+
+.entry img {
+    width: 30rem;
+}
