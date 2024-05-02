@@ -238,3 +238,9 @@ figcaption p {
     position: absolute;
     top: 359%;
 }
+
+#far-right-middle-2 {
+    position: absolute;
+    top: 65%;
+    left: 43%;
+}
