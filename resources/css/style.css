@@ -81,6 +81,10 @@ span a {
     padding: 2rem 1.5rem;
 }
 
+#sign-in img {
+    width: 100%;
+}
+
 
 #sign-in hgroup {
     position: absolute;
