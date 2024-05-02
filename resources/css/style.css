@@ -215,3 +215,7 @@ section h3 {
 figure {
     background-color: white;
 }
+
+figcaption {
+    padding: 16px;
+}
