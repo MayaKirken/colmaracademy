@@ -233,3 +233,8 @@ figcaption p {
 #thesis-exhibit video {
     width: 100%;
 }
+
+#right-2 {
+    position: absolute;
+    top: 359%;
+}
