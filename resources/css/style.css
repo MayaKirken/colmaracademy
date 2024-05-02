@@ -219,3 +219,7 @@ figure {
 figcaption {
     padding: 16px;
 }
+
+figcaption p, h3 {
+    color: gray;
+}
