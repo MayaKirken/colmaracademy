@@ -230,3 +230,6 @@ figcaption p {
 
 /* Thesis Exhibit Section */
 
+#thesis-exhibit video {
+    width: 100%;
+}
