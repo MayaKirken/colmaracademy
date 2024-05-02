@@ -187,6 +187,8 @@ section h3 {
 }
 
 #start-learning {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
     background-color: lightgrey;
 }
 
