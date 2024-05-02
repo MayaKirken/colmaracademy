@@ -223,3 +223,7 @@ figcaption {
 figcaption p, h3 {
     color: gray;
 }
+
+figcaption p {
+    line-height: 1.5rem;
+}
