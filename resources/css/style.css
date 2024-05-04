@@ -246,6 +246,10 @@ figcaption p {
     left: 43%;
 }
 
+#thesis-exhibit section p {
+    color: gray;
+}
+
 /* Footer */
 
 footer {
