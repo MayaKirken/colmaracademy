@@ -247,6 +247,10 @@ figcaption p {
 }
 
 /* Footer */
+footer {
+    padding-left: 1.5rem;
+    padding-top: 1rem;
+}
 
 footer nav {
     text-align: right;
