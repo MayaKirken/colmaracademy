@@ -147,6 +147,10 @@ aside {
     border-left: 1px solid #d3d3d3;
 }
 
+#border-bottom {
+    border-bottom: 1px solid #d3d3d3;
+}
+
 aside img {
     height: auto;
     width: 35%;
