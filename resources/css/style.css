@@ -139,7 +139,7 @@ span a {
 
 aside {
     position: absolute;
-    top: 110.2%;
+    top: 108%;
     left: 65%;
     border-left: 1px solid #d3d3d3;
 }
@@ -248,6 +248,10 @@ figcaption p {
 
 #thesis-exhibit section p {
     color: gray;
+}
+
+#thesis-exhibit aside {
+    border: none;
 }
 
 /* Footer */
