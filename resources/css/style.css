@@ -31,6 +31,9 @@ header, footer {
 
 }
 
+.background-color-gray {
+    background-color: lightgrey;
+}
 
 /* Header */
 
@@ -162,10 +165,6 @@ aside #far-right-bottom {
     position: absolute;
     top: 75%;
     left: 43%;
-}
-
-#background-color-gray {
-    background-color: lightgrey;
 }
 
 section h3 {
