@@ -260,3 +260,7 @@ footer nav {
     flex-grow: 1;
     margin-right: 1.5rem;
 }
+
+footer a {
+    color: gray;
+}
