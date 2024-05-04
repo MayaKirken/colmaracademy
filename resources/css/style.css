@@ -246,6 +246,8 @@ figcaption p {
     left: 43%;
 }
 
+/* Footer */
+
 footer nav {
     text-align: right;
     flex-grow: 1;
