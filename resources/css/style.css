@@ -151,6 +151,10 @@ aside {
     border-bottom: 1px solid #d3d3d3;
 }
 
+#border-top {
+    border-top: 1px solid #d3d3d3;
+}
+
 aside img {
     height: auto;
     width: 35%;
