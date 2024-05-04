@@ -22,10 +22,7 @@ body {
     color: #36454F;
 }
 
-
-/* Header */
-
-header {
+header, footer {
     display: flex;
     align-items: center;
     width: 100%;
@@ -33,6 +30,10 @@ header {
     height: 4rem;
 
 }
+
+
+/* Header */
+
 
 header #colmaricon {
     height: 2rem;
@@ -243,4 +244,9 @@ figcaption p {
     position: absolute;
     top: 65%;
     left: 43%;
+}
+
+footer nav {
+    text-align: right;
+    flex-grow: 1;
 }
