@@ -35,6 +35,12 @@ header, footer {
     background-color: lightgrey;
 }
 
+#light-para {
+    font-weight: 400;
+    color: #36454F;
+    line-height: 1.4;
+}
+
 /* Header */
 
 
@@ -132,10 +138,6 @@ span a {
     color: #36454F;
 }
 
-#light-para {
-    font-weight: 400;
-    color: #36454F;
-}
 
 aside {
     position: absolute;
