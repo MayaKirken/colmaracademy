@@ -153,6 +153,7 @@ aside {
 
 #border-top {
     border-top: 1px solid #d3d3d3;
+    margin-top: 0.1rem;
 }
 
 aside img {
