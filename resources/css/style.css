@@ -235,6 +235,10 @@ figcaption p {
     padding: 2rem 1.5rem;
 }
 
+#thesis-exhibit h2 {
+    margin-bottom: 2rem;
+}
+
 #thesis-exhibit video {
     width: 100%;
 }
