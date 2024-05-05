@@ -86,7 +86,9 @@ span a {
     font-size: 1rem;
 }
 
-
+.mobile-nav {
+    display: none;
+}
 
 /* Sign Up Section */
 
@@ -299,7 +301,7 @@ footer a {
     color: gray;
 }
 
-/* Mobile Media Query */
+/* Media Query for Mobile Design */
 
 @media only screen and (max-width: 760px) {
     .display-none {
@@ -312,4 +314,6 @@ footer a {
         align-items: center;
         flex-grow: 1;
     }
+
+
 }
