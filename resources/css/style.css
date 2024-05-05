@@ -7,7 +7,6 @@ body {
     font-family: "Roboto", sans-serif;
 }
 
-
 .left {
     width: 60%;
 }
@@ -22,14 +21,16 @@ body {
     color: #36454F;
 }
 
+
+
 header, footer {
     display: flex;
     align-items: center;
     width: 100%;
     z-index: 1;
     height: 4rem;
-
 }
+
 
 .background-color-gray {
     background-color: lightgrey;
@@ -42,7 +43,6 @@ header, footer {
 }
 
 /* Header */
-
 
 header #colmaricon {
     height: 2rem;
@@ -85,6 +85,7 @@ span a {
     color: #36454F;
     font-size: 1rem;
 }
+
 
 /* Sign Up Section */
 
@@ -299,3 +300,10 @@ footer a {
 
 /* Media Queries */
 
+@media only screen and (max-width: 760px) {
+    .display-none {
+        display: none;
+    }
+
+    
+}
