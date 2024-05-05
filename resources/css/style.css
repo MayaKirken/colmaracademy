@@ -87,6 +87,7 @@ span a {
 }
 
 
+
 /* Sign Up Section */
 
 #sign-in {
@@ -298,12 +299,17 @@ footer a {
     color: gray;
 }
 
-/* Media Queries */
+/*  */
 
 @media only screen and (max-width: 760px) {
     .display-none {
         display: none;
     }
 
-    
+    .mobile-nav {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        flex-grow: 1;
+    }
 }
