@@ -313,6 +313,12 @@ footer a {
         flex-grow: 1;
     }
 
+    #sign-in .left img {
+        position: absolute;
+        left: 0;
+        top: 7%;
+    }
+
     #sign-in .right {
         position: relative;
         left: 10%;
