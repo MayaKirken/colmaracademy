@@ -336,7 +336,7 @@ footer a {
     #sign-in .right button {
         width: 100%;
         position: absolute;
-        right: 3.5%;
+        right: 7.5%;
         background-color: gray;
     }
 
@@ -355,5 +355,8 @@ footer a {
     #about-campus-mobile section, hgroup {
         margin: 1rem;
     }
-    
+
+    #about-campus-mobile img {
+        width: 100%;
+    }
 }
