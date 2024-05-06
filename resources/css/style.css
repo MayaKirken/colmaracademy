@@ -352,4 +352,8 @@ footer a {
         text-decoration: none;
     }
 
+    #about-campus-mobile section, hgroup {
+        margin: 1rem;
+    }
+    
 }
