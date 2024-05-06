@@ -390,5 +390,13 @@ footer a {
         display: none;
     }
 
+    #thesis-exhibit {
+        height: 15rem;
+    }
+
+    #thesis-exhibit .left {
+        position: absolute;
+        left: 10%;
+    }
 
 }
