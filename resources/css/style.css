@@ -313,7 +313,7 @@ footer a {
         flex-grow: 1;
     }
 
-    #sign-in {
+    #sign-in, #about-campus {
         height: 40rem;
     }
     #sign-in .left img {
@@ -341,5 +341,8 @@ footer a {
         display: none;
     }
 
-    
+    #about-campus .right {
+        position: relative;
+        
+    }
 }
