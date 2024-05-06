@@ -330,4 +330,10 @@ footer a {
         padding: 2rem 1rem;
     }
 
+    #sign-in .right button {
+        width: 100%;
+        position: absolute;
+        right: 3.5%;
+        background-color: gray;
+    }
 }
