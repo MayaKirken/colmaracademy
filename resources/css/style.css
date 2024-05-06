@@ -199,7 +199,7 @@ section h3 {
     text-decoration: none;
 }
 
-#about-campus-mobile{
+#about-campus-mobile {
     display: none;
 }
 
@@ -340,7 +340,11 @@ footer a {
         background-color: gray;
     }
 
-    #about-campus article .left, .right {
+    #about-campus article .left, #about-campus aside {
         display: none;
+    }
+
+    #about-campus-mobile {
+        display: contents;
     }
 }
