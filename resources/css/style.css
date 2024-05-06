@@ -336,4 +336,10 @@ footer a {
         right: 3.5%;
         background-color: gray;
     }
+
+    #about-campus .left {
+        display: none;
+    }
+
+    
 }
