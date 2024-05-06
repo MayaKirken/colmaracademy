@@ -250,6 +250,10 @@ figcaption p {
     line-height: 1.5;
 }
 
+#start-learning-mobile {
+    display: none;
+}
+
 /* Thesis Exhibit Section */
 
 #thesis-exhibit {
@@ -363,4 +367,10 @@ footer a {
     #about-campus-mobile .quad-pixels {
         margin-top: 4rem;
     }
+
+    #start-learning #wrapper {
+        display: none;
+    }
+
+
 }
