@@ -359,4 +359,8 @@ footer a {
     #about-campus-mobile img {
         width: 100%;
     }
+
+    #about-campus-mobile .quad-pixels {
+        margin-top: 4rem;
+    }
 }
