@@ -199,6 +199,9 @@ section h3 {
     text-decoration: none;
 }
 
+#about-campus-mobile{
+    display: none;
+}
 
 /* Start Learning Section */
 
@@ -337,18 +340,7 @@ footer a {
         background-color: gray;
     }
 
-    #about-campus .left {
+    #about-campus article .left, .right {
         display: none;
-    }
-
-    #about-campus {
-        height: 35rem;
-    }
-
-    #about-campus .right {
-        position: absolute;
-        top: 85%;
-        left: 7%;
-        width: 100%;
     }
 }
