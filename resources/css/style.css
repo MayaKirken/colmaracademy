@@ -385,4 +385,10 @@ footer a {
         padding: 1rem;
         background-color: lightgrey;
     }
+
+    #thesis-exhibit p, #thesis-exhibit .left h2, #thesis-exhibit .right {
+        display: none;
+    }
+
+
 }
