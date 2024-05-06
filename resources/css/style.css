@@ -347,4 +347,9 @@ footer a {
     #about-campus-mobile {
         display: contents;
     }
+
+    #about-campus-mobile hgroup a {
+        text-decoration: none;
+    }
+
 }
