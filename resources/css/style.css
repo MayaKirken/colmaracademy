@@ -22,7 +22,6 @@ body {
 }
 
 
-
 header, footer {
     display: flex;
     align-items: center;
@@ -142,7 +141,6 @@ span a {
     font-size: 2rem;
     color: #36454F;
 }
-
 
 aside {
     position: absolute;
@@ -315,5 +313,11 @@ footer a {
         flex-grow: 1;
     }
 
+    #sign-in .right {
+        position: relative;
+        left: 10%;
+        width: 100%;
+        padding: 2rem 1rem;
+    }
 
 }
