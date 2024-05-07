@@ -378,6 +378,8 @@ footer a {
     
     #start-learning {
         background-color: #ffffff;
+        border-top: 1px solid lightgray;
+        border-bottom: 1px solid lightgray;
     }
 
     #start-learning-mobile h3 {
@@ -406,4 +408,6 @@ footer a {
         right: 19%;
         top: 10%;
     }
+
+
 }
