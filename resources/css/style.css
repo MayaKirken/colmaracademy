@@ -391,12 +391,19 @@ footer a {
     }
 
     #thesis-exhibit {
-        height: 15rem;
+        height: 21.2rem;
     }
 
     #thesis-exhibit .left {
         position: absolute;
         left: 10%;
+        width: 100%;
     }
 
+    #thesis-exhibit .left video {
+        width: 100%;
+        position: absolute;
+        right: 19%;
+        top: 10%;
+    }
 }
