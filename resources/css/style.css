@@ -409,5 +409,8 @@ footer a {
         top: 10%;
     }
 
+    footer nav span {
+        display: none;
+    }
 
 }
